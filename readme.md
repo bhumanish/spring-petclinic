@@ -14,7 +14,7 @@ You can then access petclinic here: http://localhost:9966/petclinic/
 
 ## In case you find a bug/suggested improvement for Spring Petclinic
 Our issue tracker is available here: https://github.com/spring-projects/spring-petclinic/issues
-
+New features now i am adding in to spring petclinic pet repo
 
 ## Database configuration
 
